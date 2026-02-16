@@ -1,0 +1,30 @@
+{
+  "$schema": "https://json.schemastore.org/tsconfig",
+  "compileOnSave": false,
+  "compilerOptions": {
+    "rootDir": ".",
+    "baseUrl": ".",
+    "target": "ES2022",
+    "module": "commonjs",
+    "lib": [
+      "ES2022",
+      "DOM"
+    ],
+    "moduleResolution": "node",
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "importHelpers": true,
+    "sourceMap": true,
+    "declaration": false,
+    "skipLibCheck": true,
+    "strict": true,
+    "paths": {
+      "@org/auth": [
+        "libs/auth/src/index.ts"
+      ],
+      "@org/data": [
+        "libs/data/src/index.ts"
+      ]
+    }
+  }
+}
