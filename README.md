@@ -4,7 +4,7 @@
 
 **A production-ready, multi-tenant task management platform with enterprise-grade security**
 
-**Tech Stack:** NestJS • Angular • TypeScript • NX Monorepo • JWT • TYpeORM
+**Tech Stack:** NestJS • Angular • TypeScript • NX Monorepo • JWT • TypeORM
 
 [Features](#-features) • [Quick Start](#-quick-start) • [Architecture](#-architecture) • [API Docs](#-api-documentation) • [Security](#-security) • [Demo](#-demo)
 
