@@ -38,8 +38,10 @@ A full-stack task management system built with **NestJS** and **Angular** in an 
 
 ## 🎥 Demo
 
-🎬 **[Watch Demo Video](https://github.com/saitejabandaru23/sbandaru-14d52b51-f92f-4c15-a588-88e66bee13e9/blob/main/DEMO%20VIDEO.mp4)** - See the application in action!
-🎬 **[Watch Demo Video](https://drive.google.com/file/d/1JeGz5GIhFArgcCZ_xASJiafGusArMtQF/view?usp=sharing)** - See the application in action!
+🎬 **[Watch Demo Video on Google Drive](https://drive.google.com/file/d/1JeGz5GIhFArgcCZ_xASJiafGusArMtQF/view?usp=sharing)** - See the application in action!
+
+🎬 **[Watch Demo Video on GitHub](https://github.com/saitejabandaru23/sbandaru-14d52b51-f92f-4c15-a588-88e66bee13e9/blob/main/DEMO%20VIDEO.mp4)** - Alternative link
+
 ---
 
 ## 🚀 Quick Start
@@ -109,7 +111,7 @@ JWT_EXPIRATION=1h
 | Layer | Technology |
 |-------|-----------|
 | **Frontend** | Angular 18+, TypeScript, RxJS |
-| **Backend** | NestJS, TypeScript, Prisma ORM |
+| **Backend** | NestJS, TypeScript, TypeORM |
 | **Database** | SQLite (dev), PostgreSQL-ready |
 | **Auth** | JWT, Passport.js |
 | **Monorepo** | NX Workspace |
@@ -329,7 +331,7 @@ Query Parameters:
 
 ### Phase 3: Production Hardening
 - [ ] Migration from SQLite to PostgreSQL
-- [ ] Database migration management (Prisma Migrate)
+- [ ] Database migration management (TypeORM Migrations)
 - [ ] Automated backups and disaster recovery
 - [ ] Horizontal scaling support
 - [ ] CI/CD pipeline integration
