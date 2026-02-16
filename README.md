@@ -38,8 +38,8 @@ A full-stack task management system built with **NestJS** and **Angular** in an 
 
 ## 🎥 Demo
 
-🎬 **[Watch Demo Video](link-to-your-demo-video)** - See the application in action!
-
+🎬 **[Watch Demo Video]([link-to-your-demo-video](https://github.com/saitejabandaru23/sbandaru-14d52b51-f92f-4c15-a588-88e66bee13e9/blob/main/DEMO%20VIDEO.mp4)** - See the application in action!
+🎬 **[Watch Demo Video]([link-to-your-demo-video](https://drive.google.com/file/d/1JeGz5GIhFArgcCZ_xASJiafGusArMtQF/view?usp=sharing)** - See the application in action!
 ---
 
 ## 🚀 Quick Start
