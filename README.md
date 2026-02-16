@@ -18,7 +18,7 @@ A full-stack task management system built with **NestJS** and **Angular** in an 
 
 **Turbovets Assessment Submission**  
 👤 **Author:** Sai Teja Bandaru  
-📧 **Email:** saiteja.bandaru03@gmail.com  
+📧 **Email:** saiteja.bandaru08@gmail.com  
 📱 **Phone:** +1 (682) 336-2337
 
 ---
